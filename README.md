@@ -56,5 +56,25 @@ Here are some ideas to get you started:
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 
+<br/>
+
+### Stats
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirtcode)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirtcode)](https://github.com/mirtcode/github-readme-stats)
+
+
+
+
+
+
+
+
+
 
 
